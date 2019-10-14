@@ -1,0 +1,4 @@
+#Wed Sep 25 15:19:04 IST 2019
+base.0=F\:\\SecuraERP\\scan\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
